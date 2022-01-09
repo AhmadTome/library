@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="126680a9-a953-465c-aef6-1385e5da8e84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/addBook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/editReservation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/getReservation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/listOfReservations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/reserve_book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editReservation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reserveBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdminPanel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListOfExams.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_appointment.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/appointmentList.php" beforeDir="false" afterPath="$PROJECT_DIR$/reservationsList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/add_appointment.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/add_book.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/getEarns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/sendCode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/earns.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/banner-admin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/exam.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/k3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/skoda.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/van.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectId" id="1q1KsRAynehDvRvRiO0QXK7LrAt" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.login.php">
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/library/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/library/login.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.php" />
+        <item itemvalue="PHP Script.index.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="126680a9-a953-465c-aef6-1385e5da8e84" name="Default Changelist" comment="" />
+      <created>1586197864735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586197864735</updated>
+      <workItem from="1586197866048" duration="6445000" />
+      <workItem from="1586262660530" duration="29000" />
+      <workItem from="1586270183306" duration="8645000" />
+      <workItem from="1586286935875" duration="2753000" />
+      <workItem from="1586290213928" duration="77000" />
+      <workItem from="1586369320809" duration="34000" />
+      <workItem from="1586370524498" duration="772000" />
+      <workItem from="1586459596721" duration="1098000" />
+      <workItem from="1587156046294" duration="2135000" />
+      <workItem from="1587210007093" duration="665000" />
+      <workItem from="1616241864390" duration="29000" />
+      <workItem from="1641683181337" duration="261000" />
+      <workItem from="1641683519267" duration="541000" />
+      <workItem from="1641685354501" duration="12402000" />
+      <workItem from="1641734328904" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
